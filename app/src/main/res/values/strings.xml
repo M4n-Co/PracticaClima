@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">PracticaClima</string>
+
+    <string name="sesnacion">Sesación Real</string>
+    <string name="humedad">Humedad</string>
+    <string name="presion">Presión</string>
+
+    <string name="ms">m/s</string>
+    <string name="centigrados">°C</string>
+    <string name="centigr">°</string>
+    <string name="porcentaje">%</string>
+
+    <string name="descripcion">Descripción de clima</string>
+    <string name="tempMaxMin">28° / 7°</string>
+
+    <string name="hora">00:00</string>
+</resources>
